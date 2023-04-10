@@ -1,6 +1,12 @@
 # Amber-theme for [Windows Terminal](https://github.com/Microsoft/Terminal)
 
+![screenshot of this theme](./resources/ScreenshotASCIIArt.png)
 ![screenshot of this theme](./resources/Screenshot.png)
+![screenshot of this theme](./resources/ScreenshotNano.png)
+
+# About
+
+Amber-theme is a theme for Microsoft's Windows Terminal Application that is inspired by Monochrome Hercules Phosphor-based Amber Monitors. 
 
 # Installation
 
